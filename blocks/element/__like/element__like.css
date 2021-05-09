@@ -1,0 +1,9 @@
+.element__like {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  transition: all .5s;
+}
+.element__like:focus {
+  outline: 0;
+}

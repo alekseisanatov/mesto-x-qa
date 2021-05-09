@@ -1,0 +1,7 @@
+@media screen and (max-width: 620px) {
+  .profile__change {
+    width: 7px;
+    height: 7px;
+    margin: 5px 0;
+  }
+}

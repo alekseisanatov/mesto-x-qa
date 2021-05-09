@@ -1,0 +1,24 @@
+.modal__close {
+    position: absolute;
+    border: 0;
+    background: transparent;
+    right: -20px;
+    top: -38px;
+    cursor: pointer;
+    transition: opacity .5s;
+}
+
+.modal__close:focus {
+    outline: 0;
+}
+
+.modal__close:hover {
+    opacity: .6;
+}
+
+@media screen and (max-width: 520px) {
+    .modal__close {
+        right: 30px;
+        top: -20px;
+    }
+}

@@ -1,0 +1,6 @@
+@media screen and (max-width: 520px) {
+    .modal__image {
+        width: 26px;
+        height: 26px;
+    }
+}
